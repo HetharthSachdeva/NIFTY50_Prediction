@@ -114,7 +114,7 @@ The model successfully predicts short-term trends in the Nifty index. Below is a
 
 ## Acknowledgments
 
-- **Special Thanks:** I would like to extend my gratitude to [Avijeet Biswal](https://www.simplilearn.com) for their detailed resources on Simplilearn, which served as a valuable guide throughout this project.
+- **Special Thanks:** I would like to extend my gratitude to [Avijeet Biswal](https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning) for their detailed resources on Simplilearn, which served as a valuable guide throughout this project.
 
 ---
 
