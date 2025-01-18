@@ -21,7 +21,7 @@ This project focuses on predicting the Nifty stock index using a Long Short-Term
 - Preprocessing of stock market data for normalization and feature selection.
 - Implementation of an LSTM-based sequential model with multiple layers and dropout for robust predictions.
 - Visualization of model predictions vs. actual stock index values for evaluation.
-![Visualization](/Stock_Prediction.png "Optional Title")
+![Visualization](Stock_Prediction.png "Optional Title")
 
 ## Technologies Used
 
