@@ -118,12 +118,6 @@ The model successfully predicts short-term trends in the Nifty index. Below is a
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
