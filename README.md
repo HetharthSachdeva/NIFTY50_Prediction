@@ -13,7 +13,6 @@ This project focuses on predicting the Nifty stock index using a Long Short-Term
 - [Project Workflow](#project-workflow)
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
